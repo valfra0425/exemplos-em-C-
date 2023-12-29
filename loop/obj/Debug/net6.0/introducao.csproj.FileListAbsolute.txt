@@ -1,0 +1,15 @@
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\bin\Debug\net6.0\introducao.exe
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\bin\Debug\net6.0\introducao.deps.json
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\bin\Debug\net6.0\introducao.runtimeconfig.json
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\bin\Debug\net6.0\introducao.dll
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\bin\Debug\net6.0\introducao.pdb
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\obj\Debug\net6.0\introducao.csproj.AssemblyReference.cache
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\obj\Debug\net6.0\introducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\obj\Debug\net6.0\introducao.AssemblyInfoInputs.cache
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\obj\Debug\net6.0\introducao.AssemblyInfo.cs
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\obj\Debug\net6.0\introducao.csproj.CoreCompileInputs.cache
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\obj\Debug\net6.0\introducao.dll
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\obj\Debug\net6.0\refint\introducao.dll
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\obj\Debug\net6.0\introducao.pdb
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\obj\Debug\net6.0\introducao.genruntimeconfig.cache
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\loop\obj\Debug\net6.0\ref\introducao.dll

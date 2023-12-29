@@ -1,0 +1,15 @@
+C:\Users\valmi\Downloads\projetos\dotnet\imc\bin\Debug\net6.0\imc.exe
+C:\Users\valmi\Downloads\projetos\dotnet\imc\bin\Debug\net6.0\imc.deps.json
+C:\Users\valmi\Downloads\projetos\dotnet\imc\bin\Debug\net6.0\imc.runtimeconfig.json
+C:\Users\valmi\Downloads\projetos\dotnet\imc\bin\Debug\net6.0\imc.dll
+C:\Users\valmi\Downloads\projetos\dotnet\imc\bin\Debug\net6.0\imc.pdb
+C:\Users\valmi\Downloads\projetos\dotnet\imc\obj\Debug\net6.0\imc.csproj.AssemblyReference.cache
+C:\Users\valmi\Downloads\projetos\dotnet\imc\obj\Debug\net6.0\imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valmi\Downloads\projetos\dotnet\imc\obj\Debug\net6.0\imc.AssemblyInfoInputs.cache
+C:\Users\valmi\Downloads\projetos\dotnet\imc\obj\Debug\net6.0\imc.AssemblyInfo.cs
+C:\Users\valmi\Downloads\projetos\dotnet\imc\obj\Debug\net6.0\imc.csproj.CoreCompileInputs.cache
+C:\Users\valmi\Downloads\projetos\dotnet\imc\obj\Debug\net6.0\imc.dll
+C:\Users\valmi\Downloads\projetos\dotnet\imc\obj\Debug\net6.0\refint\imc.dll
+C:\Users\valmi\Downloads\projetos\dotnet\imc\obj\Debug\net6.0\imc.pdb
+C:\Users\valmi\Downloads\projetos\dotnet\imc\obj\Debug\net6.0\imc.genruntimeconfig.cache
+C:\Users\valmi\Downloads\projetos\dotnet\imc\obj\Debug\net6.0\ref\imc.dll

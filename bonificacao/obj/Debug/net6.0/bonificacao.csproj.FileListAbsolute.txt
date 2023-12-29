@@ -1,0 +1,15 @@
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\obj\Debug\net6.0\bonificacao.csproj.AssemblyReference.cache
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\obj\Debug\net6.0\bonificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\obj\Debug\net6.0\bonificacao.AssemblyInfoInputs.cache
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\obj\Debug\net6.0\bonificacao.AssemblyInfo.cs
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\obj\Debug\net6.0\bonificacao.csproj.CoreCompileInputs.cache
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\bin\Debug\net6.0\bonificacao.exe
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\bin\Debug\net6.0\bonificacao.deps.json
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\bin\Debug\net6.0\bonificacao.runtimeconfig.json
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\bin\Debug\net6.0\bonificacao.dll
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\bin\Debug\net6.0\bonificacao.pdb
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\obj\Debug\net6.0\bonificacao.dll
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\obj\Debug\net6.0\refint\bonificacao.dll
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\obj\Debug\net6.0\bonificacao.pdb
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\obj\Debug\net6.0\bonificacao.genruntimeconfig.cache
+C:\Users\valmi\Downloads\projetos\dotnet\introducao\bonificacao\obj\Debug\net6.0\ref\bonificacao.dll
